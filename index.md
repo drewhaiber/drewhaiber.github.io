@@ -1,5 +1,5 @@
-Glass orb: (4.2, 1.919, 2.58)<br/>
-Opaque orb: (3.34, 1.746, 1.41)<br/>
+Glass orb: (4.2, 1.919, 2.58) (diameter of 1)<br/>
+Opaque orb: (3.34, 1.746, 1.41) (diameter of 1)<br/>
 Floor: (3.264, 1.011, 0.052), scale: (7, 10, 1)<br/>
 Light: (4.05, 6.71, -0.79)<br/>
 Camera position: (4.013, 2.016, 4.238)<br/>
