@@ -1,0 +1,23 @@
+﻿  raytracer.cpp
+C:\Users\14439\source\repos\raytracer\raytracer\raytracer.cpp(21,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\14439\source\repos\raytracer\raytracer\raytracer.cpp(179,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\14439\source\repos\raytracer\raytracer\raytracer.cpp(180,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\14439\source\repos\raytracer\raytracer\raytracer.cpp(195,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\14439\source\repos\raytracer\raytracer\raytracer.cpp(196,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\14439\source\repos\raytracer\raytracer\raytracer.cpp(302,61): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\14439\source\repos\raytracer\raytracer\raytracer.cpp(302,95): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\14439\source\repos\raytracer\raytracer\raytracer.cpp(303,30): warning C4316: 'Camera': object allocated on the heap may not be aligned 16
+C:\Users\14439\source\repos\raytracer\raytracer\raytracer.cpp(305,76): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\14439\source\repos\raytracer\raytracer\raytracer.cpp(305,76): warning C4316: 'Sphere': object allocated on the heap may not be aligned 16
+C:\Users\14439\source\repos\raytracer\raytracer\raytracer.cpp(306,76): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\14439\source\repos\raytracer\raytracer\raytracer.cpp(306,76): warning C4316: 'Sphere': object allocated on the heap may not be aligned 16
+C:\Users\14439\source\repos\raytracer\raytracer\raytracer.cpp(315,6): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\14439\source\repos\raytracer\raytracer\raytracer.cpp(315,6): warning C4316: 'Triangle': object allocated on the heap may not be aligned 16
+C:\Users\14439\source\repos\raytracer\raytracer\raytracer.cpp(321,6): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\14439\source\repos\raytracer\raytracer\raytracer.cpp(321,6): warning C4316: 'Triangle': object allocated on the heap may not be aligned 16
+  Generating code
+  1 of 1032 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    17 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  raytracer.vcxproj -> C:\Users\14439\source\repos\raytracer\Release\raytracer.exe
