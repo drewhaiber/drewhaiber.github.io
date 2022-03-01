@@ -1,4 +1,4 @@
-Scene without Torus rendered:
-![Image](no_donut.png)
+Scene without Torus or subsampling rendered:
+![Image](no_donut_no_subsampling.png)
 Scene with Torus rendered:
-![Image](donut.png)
+![Image](donut_with_subsampling.png)
