@@ -1,4 +1,6 @@
-Scene without Torus or subsampling rendered:
+Scene with checkerboard floor
+![Image](checkerboard_no_bumpmapping.png)
+Scene with bumpmapping on checkboard floor to create appearence of indentation
 ![Image](checkerboard_bumpmapping.png)
-Scene with Torus rendered and 4x subsampling per pixel:
-![Image](checkerboard_nobumpmapping.png)
+
+
