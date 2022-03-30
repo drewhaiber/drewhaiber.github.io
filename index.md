@@ -1,6 +1,4 @@
-Scene with checkerboard floor
-![Image](checkerboard_no_bumpmapping.png)
-Scene with bumpmapping on checkboard floor to create appearence of indentation
-![Image](checkerboard_bumpmapping.png)
+Could not get BRDF working, so only image is of perfect reflection
+![Image](no_brdf.png)
 
 
