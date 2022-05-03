@@ -1,8 +1,15 @@
 From left to right intensity of 1/10th lighting, 1 lighting, 2 lighting using Ward tone reproduction
-![Image](tenthward.png) ![Image](1ward.png) ![Image](2ward.png)
+<p float="left">
+  <img src="/tenthward.png" width="300" />
+  <img src="/1ward.png" width="300" /> 
+  <img src="/2ward.png" width="300" />
+</p>
 Same as above, but with Reinhard
-![Image](tenth_reinhardt.png)![Image](1reinhardt.png)![Image](2reinhardt.png)
-
+<p float="left">
+  <img src="/tenth_reinhardt.png" width="300" />
+  <img src="/1reinhardt.png" width="300" /> 
+  <img src="/2reinhardt.png" width="300" />
+</p>
 
 ADV CHECKPOINT: K-d tree:
 ![Image](1ward.png)
@@ -10,5 +17,8 @@ Image with the highest polygon count bunny, took 14 seconds to render with Kd tr
 
 ADV CEHCKPOINT: Tone reproduction:
 Light intensity of 1, on left Ward tone reproduction, on right adaptive logarithmic
-![Image](1ward.png)![Image](1adjustment.png)
+<p float="left">
+  <img src="/1ward.png" width="450" />
+  <img src="/1adjustment.png" width="450" /> 
+</p>
 
